@@ -61,3 +61,6 @@ npx create-react-app users --template typescript
 ```typescript
 npm strat
 ```
+
+create-react-app으로 만든 프로젝트는 npm start 명령만으로 웹 브라우저가 자동으로 실행되면서 http://localhost:3000 주소에 접속한다. 모든 것이 정상이면 다음 화면을 볼 수 있다.
+![react](https://user-images.githubusercontent.com/58906858/142576784-f12ab9ed-6c0c-498a-85de-5ba639585217.jpg)
